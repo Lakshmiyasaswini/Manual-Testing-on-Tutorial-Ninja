@@ -1,1 +1,1 @@
-# Projects-of-MT-and-JS
+# Tutorial Ninja on Munual Testing Project
